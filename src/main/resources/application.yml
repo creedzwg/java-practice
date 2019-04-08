@@ -1,0 +1,5 @@
+server:
+  port: 8765
+
+logging:
+  file: /log/my.log
